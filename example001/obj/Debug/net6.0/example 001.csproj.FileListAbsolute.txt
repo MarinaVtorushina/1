@@ -1,0 +1,15 @@
+D:\Аналитик\разработчик\example\example 001\bin\Debug\net6.0\example 001.exe
+D:\Аналитик\разработчик\example\example 001\bin\Debug\net6.0\example 001.deps.json
+D:\Аналитик\разработчик\example\example 001\bin\Debug\net6.0\example 001.runtimeconfig.json
+D:\Аналитик\разработчик\example\example 001\bin\Debug\net6.0\example 001.dll
+D:\Аналитик\разработчик\example\example 001\bin\Debug\net6.0\example 001.pdb
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.csproj.AssemblyReference.cache
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.AssemblyInfoInputs.cache
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.AssemblyInfo.cs
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.csproj.CoreCompileInputs.cache
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.dll
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\refint\example 001.dll
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.pdb
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\example 001.genruntimeconfig.cache
+D:\Аналитик\разработчик\example\example 001\obj\Debug\net6.0\ref\example 001.dll
